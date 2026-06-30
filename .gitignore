@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# Reports
+reports/
+allure-results/
+allure-report/
+
+# Downloaded videos
+downloads/*
+
+# Uploaded videos
+uploads/*
+
+# Keep the folders in Git
+!downloads/.gitkeep
+!uploads/.gitkeep
+
+# OS
+Thumbs.db
+.DS_Store

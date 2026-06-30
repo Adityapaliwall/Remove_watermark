@@ -1,0 +1,15 @@
+selenium==4.18.1
+
+pytest==8.1.1
+pytest-html==4.1.1
+pytest-metadata==3.1.1
+pytest-rerunfailures==14.0
+pytest-xdist==3.6.1
+
+allure-pytest==2.16.0
+allure-python-commons==2.16.0
+
+PyYAML==6.0.1
+
+webdriver-manager==4.0.2
+undetected-chromedriver==3.5.5
